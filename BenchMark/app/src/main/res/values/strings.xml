@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BenchMark</string>
+    <string name="teststring">The big bad wolf</string>
 </resources>
